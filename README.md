@@ -23,6 +23,11 @@
 ## False Positives
 
 The file may be flagged by antiviruses as `Trojan` or `HackTool`. This is a **false positive** — antivirus ML models react to behavior (memory reading, process monitoring) that resembles a virus. The source code is open, you can verify it.
+## Feedback
+
+Found a bug or have a suggestion? Contact me:
+
+- **Telegram:** forfedback
 
 ## License
 
